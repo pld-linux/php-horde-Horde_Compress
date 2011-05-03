@@ -11,7 +11,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	6de8825ebc52370116e631ac80a9b33e
-URL:		http://pear.horde.org/package/Horde_Compress/
+URL:		https://github.com/horde/horde/tree/master/framework/Compress/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
