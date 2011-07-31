@@ -5,12 +5,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Compression API
 Name:		php-horde-Horde_Compress
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	6de8825ebc52370116e631ac80a9b33e
+# Source0-md5:	47d85cbc7bc3ebd8bd7f6f2db3733213
 URL:		https://github.com/horde/horde/tree/master/framework/Compress/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
