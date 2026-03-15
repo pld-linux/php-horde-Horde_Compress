@@ -5,7 +5,7 @@
 Summary:	%{pearname} - Horde Compression API
 Name:		php-horde-Horde_Compress
 Version:	1.0.7
-Release:	1
+Release:	2
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
